@@ -2,6 +2,8 @@
 
 As part of our MINI Project, our team created a disease prediction website which predicts 6 diseases as per the information entered or provided by the user
 
+Presentation : https://drive.google.com/file/d/1OmMfwq-APNHQKwyEkk06l9PbLyEVzHT0/view?usp=sharing
+
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
